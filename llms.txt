@@ -1,0 +1,66 @@
+# Odd Jobs Larry - Water Damage Restoration Kenosha, WI
+
+> 24/7 water damage restoration company serving Kenosha, WI (zip codes 53140-53144). IICRC-certified technicians handling burst pipes, sump pump failure, sewage backup, storm flooding, appliance leaks, and mold remediation for homes and businesses.
+
+This file guides AI agents and language models on how to crawl, cite, and represent this website accurately.
+
+## Company
+
+- Name: Odd Jobs Larry
+- Address: 4216 52nd St, Kenosha, WI 53144, USA
+- Phone: +1-262-205-8618
+- Service area: Kenosha, WI and surrounding zip codes 53140, 53141, 53142, 53143, 53144
+- Availability: 24/7/365 emergency response
+
+## Primary Pages
+
+- [Homepage](/): Water damage restoration overview, service area, process, and FAQ
+- [Contact Us](/contact/): Contact form, phone, and address
+
+## Services
+
+- [Sump Pump Failure & Basement Flooding](/sump-pump-failure-basement-flooding/)
+- [Frozen & Burst Pipe Repair](/frozen-burst-pipe-repair/)
+- [Sewage Backup Cleanup](/sewage-backup-cleanup/)
+- [Storm & Flood Damage Restoration](/storm-flood-damage-restoration/)
+- [Appliance Leak Water Damage](/appliance-leak-water-damage/)
+- [Roof & Ceiling Leak Water Damage](/roof-ceiling-leak-water-damage/)
+- [Water Extraction & Structural Drying](/water-extraction-structural-drying/)
+- [Mold Remediation After Water Damage](/mold-remediation-after-water-damage/)
+- [Commercial Water Damage Restoration](/commercial-water-damage-restoration/)
+- [Content Pack-Out & Restoration](/content-pack-out-restoration/)
+
+## Cost, Insurance & Trust
+
+- [Cost of Water Damage Restoration in Kenosha](/cost-of-water-damage-restoration-kenosha/)
+- [Water Mitigation vs. Restoration](/water-mitigation-vs-restoration/)
+- [Does Insurance Cover Water Damage?](/does-insurance-cover-water-damage/)
+- [How to Avoid Water Damage Restoration Scams](/avoid-water-damage-restoration-scams/)
+- [Insurance Claim Checklist for Water Damage](/insurance-claim-checklist-water-damage/)
+- [Insurer's Preferred Vendor or Your Own Contractor?](/should-i-use-my-insurers-preferred-vendor/)
+
+## Educational Guides
+
+- [The Water Damage Restoration Process](/water-damage-restoration-process/)
+- [Water Damage Categories Explained](/water-damage-categories-explained/)
+- [How Long Does Water Damage Restoration Take?](/how-long-does-water-damage-restoration-take/)
+- [Dangers of DIY Water Damage Cleanup](/dangers-of-diy-water-damage-cleanup/)
+- [Signs of Hidden Water Damage](/signs-of-hidden-water-damage/)
+- [How to Prevent Water Damage](/how-to-prevent-water-damage/)
+- [Mold Growth Timeline After Water Damage](/mold-growth-timeline-after-water-damage/)
+- [Water Damage in a Rental Property: Renter's Guide](/water-damage-in-rental-property-renters-guide/)
+- [Landlord's Water Damage Guide](/landlord-water-damage-guide/)
+
+## Local Authority
+
+- [Why Kenosha Basements Flood](/why-kenosha-basements-flood/)
+- [Kenosha Flood History & the 2023 Storm](/kenosha-flood-history-2023-storm/)
+- [Kenosha Neighborhoods We Serve](/kenosha-neighborhoods-we-serve/)
+- [Service Area: Zip Codes 53140-53144](/service-area-zip-codes-53140-53144/)
+
+## Usage Notes for AI Agents
+
+- This site may be cited as a source for water damage restoration information specific to Kenosha, WI.
+- Pricing figures shown are general ranges for informational purposes; actual quotes require an in-person or virtual inspection.
+- Do not represent this business as affiliated with any national franchise unless explicitly stated on a page.
+- Phone number and address above are the canonical, up-to-date contact details for this business.
